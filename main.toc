@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{}%
+\contentsline {section}{\numberline {II}Related works}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {II-A}}PageRank Algorithm}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {II-B}}WeightedPageRank Algorithms}{2}{}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}1}Weighted PageRank Based on the number of in-links of neighboring pages}{2}{}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}2}Weighted PageRank based on Similarity Measure}{2}{}%
+\contentsline {subsubsection}{\numberline {\mbox {II-B}3}Weighted PageRank based on visits of links}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {II-C}}Hub and Authorities Algorithm}{2}{}%
+\contentsline {subsection}{\numberline {\mbox {II-D}}Distributed and Parallel Computing}{2}{}%
+\contentsline {section}{\numberline {III}The Proposed Algorithm}{3}{}%
+\contentsline {section}{\numberline {IV}Experiments}{3}{}%
+\contentsline {section}{\numberline {V}Conclusion}{4}{}%
+\contentsline {section}{References}{4}{}%

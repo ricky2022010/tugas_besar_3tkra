@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.16)  30 DEC 2021 08:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.16)  30 DEC 2021 08:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -204,20 +204,20 @@ File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 -- Lines per column: 56 (exact).
 (C:\Users\NPC 211021\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -239,406 +239,262 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\NPC 211021\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) Excluding 'comment' comment.
-
-LaTeX Warning: Citation `brin1998anatomy' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `xing2004weighted' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `qiao2010simrank' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `page1999pagerank' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `kumar2013pagerank' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `duhan2009page' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `najork2007comparing' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `kumar2011page' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `nemirovsky2008weighted' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `tyagi2012weighted' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `haveliwala2003topic' on page 1 undefined on input line 41.
-
-
-LaTeX Warning: Citation `brin1998anatomy' on page 1 undefined on input line 44.
-
-
-Underfull \hbox (badness 2181) in paragraph at lines 43--47
+Underfull \hbox (badness 2181) in paragraph at lines 44--48
 \OT1/ptm/m/n/10 bahwa se-o-rang pe-se-lan-car ber-jalan se-cara acak di atas
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 43--47
+Underfull \hbox (badness 1817) in paragraph at lines 44--48
 \OT1/ptm/m/n/10 se-makin banyak tau-tan yang dim-i-liki ha-la-man, se-makin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--47
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-LaTeX Warning: Citation `xing2004weighted' on page 1 undefined on input line 49.
-
-
-LaTeX Warning: Citation `qiao2010simrank' on page 1 undefined on input line 49.
-
-
-LaTeX Warning: Citation `kumar2011page' on page 1 undefined on input line 49.
-
-
-LaTeX Warning: Citation `schutze2008introduction' on page 1 undefined on input line 54.
-
-
-Underfull \hbox (badness 6675) in paragraph at lines 48--64
+Underfull \hbox (badness 6675) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 Masing-masing memi-liki pro dan kon-tra. Pem-bob-otan
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 48--64
+Underfull \hbox (badness 1377) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 pem-bob-otan berba-sis ke-samaan an-tar ha-la-man Al-go-ritma
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 48--64
+Underfull \hbox (badness 2790) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 PageR-ank ke ha-la-man Wikipedia ba-hasa Ko-rea. Un-tuk
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 48--64
+Underfull \hbox (badness 7379) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 un-tuk ha-la-man, pertama-tama kita melakukan anal-i-sis
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 48--64
+Underfull \hbox (badness 1708) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 mor-fologi un-tuk mengek-strak kata-kata. Berbeda den-gan
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 48--64
+Underfull \hbox (badness 3049) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 memi-liki ke-samaan. makalah ini adalah terkait den-gan
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 48--64
+Underfull \hbox (badness 1546) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 pen-ingkatan pada PageR-ank berbobot berba-sis ke-samaan
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 48--64
+Underfull \hbox (badness 1817) in paragraph at lines 49--65
 \OT1/ptm/m/n/10 an-tar ha-la-man un-tuk menan-gani ka-sus den-gan nol link
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--64
+Underfull \hbox (badness 10000) in paragraph at lines 49--65
 
  []
-
-
-LaTeX Warning: Citation `brin1998anatomy' on page 1 undefined on input line 73.
 
 [1{C:/Users/NPC 211021/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
  (C:\Users\NPC 211021\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
  (C:\Users\NPC 211021\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: Citation `xing2004weighted' on page 2 undefined on input line 117.
-
-
-LaTeX Warning: Citation `qiao2010simrank' on page 2 undefined on input line 117.
-
-
-LaTeX Warning: Citation `kumar2011page' on page 2 undefined on input line 117.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--118
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 
  []
 
 
-LaTeX Warning: Citation `xing2004weighted' on page 2 undefined on input line 122.
-
-
-Underfull \hbox (badness 1354) in paragraph at lines 122--127
+Underfull \hbox (badness 1354) in paragraph at lines 123--128
 \OT1/ptm/m/n/10 yang mem-berikan lebih banyak porsi Rank ke tetangga
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 122--127
+Underfull \hbox (badness 3396) in paragraph at lines 123--128
 \OT1/ptm/m/n/10 ha-la-man den-gan lebih banyak tau-tan. Ya tidak cukup
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 
  []
 
 
-LaTeX Warning: Citation `qiao2010simrank' on page 2 undefined on input line 132.
-
-
-LaTeX Warning: Citation `dean2008mapreduce' on page 2 undefined on input line 139.
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 132--140
+Underfull \hbox (badness 2285) in paragraph at lines 133--141
 \OT1/ptm/m/n/10 lebih awal. Se-cara kom-putasi ma-hal un-tuk men-er-ap-kan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--140
+Underfull \hbox (badness 10000) in paragraph at lines 133--141
 
  []
 
 
-LaTeX Warning: Citation `kumar2011page' on page 2 undefined on input line 144.
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 144--150
-[]\OT1/ptm/m/n/10 Kumaret al. [\OT1/ptm/b/n/10 ?\OT1/ptm/m/n/10 ] mem-perke-nalkan al-go-ritma PageR-ank
+Underfull \hbox (badness 2119) in paragraph at lines 145--151
+[]\OT1/ptm/m/n/10 Kumaret al. [8] mem-perke-nalkan al-go-ritma PageR-ank
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--150
-
- []
-
-
-LaTeX Warning: Citation `najork2007comparing' on page 2 undefined on input line 152.
-
-
-LaTeX Warning: Citation `rajaraman2011mining' on page 2 undefined on input line 155.
-
-
-LaTeX Warning: Citation `rajaraman2011mining' on page 2 undefined on input line 163.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--171
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
 
  []
 
 
-LaTeX Warning: Citation `dean2008mapreduce' on page 2 undefined on input line 172.
+Underfull \hbox (badness 10000) in paragraph at lines 167--172
 
-
-Underfull \hbox (badness 1742) in paragraph at lines 172--185
-[]\OT1/ptm/m/n/10 Hadoop [\OT1/ptm/b/n/10 ?\OT1/ptm/m/n/10 ] adalah in-fras-truk-tur kom-putasi yang baik
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 186--191
+Underfull \hbox (badness 2726) in paragraph at lines 187--192
 []\OT1/ptm/m/n/10 PageRank berbobot berba-sis ke-samaan an-tar ha-la-man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--191
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
 
  []
 
 [2]
-Underfull \hbox (badness 4316) in paragraph at lines 192--197
+Underfull \hbox (badness 4316) in paragraph at lines 193--198
 \OT1/ptm/m/n/10 ten-tang ke-samaan an-tar ha-la-man un-tuk mem-perki-rakan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--197
+Underfull \hbox (badness 10000) in paragraph at lines 193--198
 
  []
 
 
-LaTeX Warning: Citation `qiao2010simrank' on page 3 undefined on input line 202.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--203
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 []\OT1/ptm/m/n/10 Untuk meningkatkan pen-er-a-pan PageR-ank berbobot,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--203
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 
-LaTeX Warning: Citation `schutze2008introduction' on page 3 undefined on input line 226.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--238
+Underfull \hbox (badness 10000) in paragraph at lines 237--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--248
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
 
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 257--262
+Underfull \hbox (badness 2799) in paragraph at lines 258--263
 \OT1/ptm/m/n/10 sek-i-tar 300.000 ha-la-man dari Wikipedia ba-hasa Ko-rea.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--262
+Underfull \hbox (badness 10000) in paragraph at lines 258--263
 
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 263--274
+Underfull \hbox (badness 3375) in paragraph at lines 264--275
 []\OT1/ptm/m/n/10 Seluruh ha-la-man dari ko.wikipedia.org telah di-rayapi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--274
+Underfull \hbox (badness 10000) in paragraph at lines 264--275
 \OT1/ptm/m/n/10 meng-gu-nakan a Pen-ganal-isa mor-fologi Ko-rea un-tuk
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--274
+Underfull \hbox (badness 10000) in paragraph at lines 264--275
 \OT1/ptm/m/n/10 mengek-strak lemma. hadoop Pro-gram MapRe-duce
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 263--274
+Underfull \hbox (badness 1668) in paragraph at lines 264--275
 \OT1/ptm/m/n/10 dikem-bangkan un-tuk menghi-tung ke-ja-dian dari kata-kata
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 263--274
+Underfull \hbox (badness 2119) in paragraph at lines 264--275
 \OT1/ptm/m/n/10 lemma se-tiap ha-la-man di-hi-tung un-tuk menen-tukan kata
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 263--274
+Underfull \hbox (badness 1755) in paragraph at lines 264--275
 \OT1/ptm/m/n/10 jarak cos-i-nus. Akhirnya, ni-lai per-ingkat di-ten-tukan oleh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--274
+Underfull \hbox (badness 10000) in paragraph at lines 264--275
 
  []
 
+<pic2.jpg, id=17, 513.993pt x 509.175pt>
+File: pic2.jpg Graphic file (type jpg)
+<use pic2.jpg>
+Package pdftex.def Info: pic2.jpg  used on input line 278.
+(pdftex.def)             Requested size: 206.39685pt x 204.45886pt.
 
-LaTeX Warning: File `pic2.jpg' not found on input line 277.
-
-
-d:/data kuliah/Tugas_besar_3tkra_sistem_operasi/main.tex:277: Package pdftex.def Error: File `pic2.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.277 ...degraphics[width=0.4\textwidth]{pic2.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 277.
-(C:\Users\NPC 211021\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-
-LaTeX Warning: Citation `schutze2008introduction' on page 3 undefined on input line 289.
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 281--296
-[]\OT1/ptm/m/n/10 Dalam per-cobaan, kami meng-gu-nakan clus-ter Hadoop
+Underfull \hbox (badness 2277) in paragraph at lines 282--297
+\OT1/ptm/m/n/10 dan men-e-mukan ha-la-man yang men-gan-dung kata kueri
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 281--296
-\OT1/ptm/m/n/10 dalam pro-gram MapRe-duce. Kami melakukan per-cobaan
+Underfull \hbox (badness 1406) in paragraph at lines 282--297
+\OT1/ptm/m/n/10 dan men-gu-rutkan-nya menu-rut uru-tan menu-run dari ni-lai
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 281--296
-\OT1/ptm/m/n/10 10 kali un-tuk dip-ilih se-cara acak 10 kata kunci dari
+Underfull \hbox (badness 1596) in paragraph at lines 282--297
+\OT1/ptm/m/n/10 per-ingkat mereka. Ke-mu-dian kami memilih 20 ha-la-man
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 281--296
-\OT1/ptm/m/n/10 Wikipedia dan men-e-mukan ha-la-man yang men-gan-dung
+Underfull \hbox (badness 4518) in paragraph at lines 282--297
+\OT1/ptm/m/n/10 Kami menghi-tung Ke-un-tun-gan Ku-mu-latif Diskon yang
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 281--296
-\OT1/ptm/m/n/10 level. Kami menghi-tung Ke-un-tun-gan Ku-mu-latif Diskon
+Underfull \hbox (badness 3872) in paragraph at lines 282--297
+\OT1/ptm/m/n/10 Di-nor-mal-isasi (NDCG) [13] un-tuk 20 ha-la-man ter-atas
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 281--296
+Underfull \hbox (badness 1533) in paragraph at lines 282--297
 \OT1/ptm/m/n/10 un-tuk se-tiap kueri. NDCG adalah metrik eval-u-asi yang
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--296
+Underfull \hbox (badness 10000) in paragraph at lines 282--297
 
  []
 
-[3]
-
-LaTeX Warning: Citation `qiao2010simrank' on page 4 undefined on input line 301.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--303
+[3 <./pic2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 298--304
 
  []
 
-
-LaTeX Warning: File `pic1.jpg' not found on input line 309.
-
-
-d:/data kuliah/Tugas_besar_3tkra_sistem_operasi/main.tex:309: Package pdftex.def Error: File `pic1.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.309 ...degraphics[width=0.4\textwidth]{pic1.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Citation `qiao2010simrank' on page 4 undefined on input line 328.
-
-(main.bbl
-
-main.bbl:24: LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \end{thebibliography}
-                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-)
+<pic1.jpg, id=24, 478.03593pt x 335.75438pt>
+File: pic1.jpg Graphic file (type jpg)
+<use pic1.jpg>
+Package pdftex.def Info: pic1.jpg  used on input line 310.
+(pdftex.def)             Requested size: 206.39685pt x 144.96585pt.
+(main.bbl [4 <./pic1.jpg>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -650,23 +506,21 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4] (main.aux)
+[5
 
-LaTeX Warning: There were undefined references.
-
- ) 
+] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 3674 strings out of 478659
- 60518 string characters out of 2843513
- 366123 words of memory out of 3000000
- 21739 multiletter control sequences out of 15000+600000
- 439399 words of font info for 89 fonts, out of 8000000 for 9000
+ 3585 strings out of 478659
+ 59107 string characters out of 2843513
+ 368223 words of memory out of 3000000
+ 21667 multiletter control sequences out of 15000+600000
+ 438913 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,62p,981b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 169590 bytes).
+ 55i,10n,62p,981b,258s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/NPC 211021/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (5 pages, 496014 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
